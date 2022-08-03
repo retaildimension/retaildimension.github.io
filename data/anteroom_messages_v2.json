@@ -3,7 +3,6 @@
     { "type":"image", "image": "https://retaildimension.github.io/data/logos/RD-Black-BlueDot.png"},
     { "type":"image", "image": "https://retaildimension.github.io/data/logos/JLL.png"},
     { "type":"text", "text": "Welcome"},
-    { "type":"text", "text": "nau mai haere mai"},
-
+    { "type":"text", "text": "nau mai haere mai"}
   ]
 }
